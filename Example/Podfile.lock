@@ -1,0 +1,23 @@
+PODS:
+  - DZNEmptyDataSet (1.8.1)
+  - PodLibTTest (0.1.0):
+    - DZNEmptyDataSet
+
+DEPENDENCIES:
+  - PodLibTTest (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DZNEmptyDataSet
+
+EXTERNAL SOURCES:
+  PodLibTTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  PodLibTTest: 87969b47aef39f25c63ca63f04c575d4376f9be1
+
+PODFILE CHECKSUM: e6240f77d9ec5a5cc0a7bab67ae883de8ce2f681
+
+COCOAPODS: 1.5.3
